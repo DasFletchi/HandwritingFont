@@ -1,5 +1,5 @@
 {
-  "name": "HandText AI Clone",
-  "description": "A high-quality text-to-handwriting converter that allows users to create realistic handwritten notes, letters, and documents with customizable fonts, paper styles, and ink colors.",
+  "name": "HandText",
+  "description": "A high-quality text-to-handwriting converter that allows users to create realistic handwritten notes and documents with customizable fonts and paper styles.",
   "requestFramePermissions": []
 }
